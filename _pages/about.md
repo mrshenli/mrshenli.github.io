@@ -12,7 +12,7 @@ I am a research scientist at Facebook NYC. I received my Ph.D. degree in Compute
 
 Experiences
 ======
-* 2018/11 - Present Research Scientist, **Facebook** Inc.
+* 2018/11 - Present Research Scientist, **Facebook AI Research**.
 * 2016/06 - 2018/11 Research Staff Member, **IBM Research** T. J. Watson Lab
 * 2010/10 - 2016/05 Research Assitant, **University of Illinois Urbana-Champaign**
 * 2015/05 - 2015/08 Research Intern, **IBM Research** T. J. Watson Lab
