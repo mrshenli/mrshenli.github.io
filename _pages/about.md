@@ -24,6 +24,11 @@ Experiences
 
 Projects
 ======
+
+* **PyTorch Distributed**
+
+	[PyTorch](https://pytorch.org/) is an open-source machine learning framework for both research and production. The [distributed package](https://pytorch.org/tutorials/beginner/dist_overview.html) in PyTorch provides tools to easily and efficiently carry out distributed training and inference. I serve as a tech lead for the PyTorch Distributed team and work on multiple projects, including [collective communication](https://pytorch.org/docs/stable/distributed.html), [distributed data parallelism](https://pytorch.org/docs/master/generated/torch.nn.parallel.DistributedDataParallel.html), and [RPC-based distributed training](https://pytorch.org/docs/master/rpc.html). [[VLDB'20](http://www.vldb.org/pvldb/vol13/p3005-li.pdf)]
+
 * **IBM Streams Beam Runner**
 
 	IBM Streams is a high-throughput low-latency analytic platform for streaming data applications. I work on multiple research issues in IBM Streams, including transform graph translation and optimization, out-of-order event arrival processing, large window aggregation, etc. Currently, I lead a small team of four people to adopt Apache Beam model into IBM Streams, which involves filling in the model gaps between Beam and Streams, indexing/garbage-collecting Beam transform states, and managing operator parallelism. Our work produces both research papers and a product (IBM Streams Beam runner toolkit) deployed in IBM Cloud which won 2018 IBM Outstanding Technical Achievement Award. [[VLDB'18](http://www.vldb.org/pvldb/vol11/p1742-li.pdf)]
