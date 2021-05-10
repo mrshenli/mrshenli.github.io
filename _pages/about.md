@@ -27,7 +27,7 @@ Projects
 
 * **PyTorch Distributed**
 
-	[PyTorch](https://pytorch.org/) is an open-source machine learning framework for both research and production. The [distributed package](https://pytorch.org/tutorials/beginner/dist_overview.html) in PyTorch provides tools to easily and efficiently carry out distributed training and inference. I serve as a tech lead for the PyTorch Distributed team and work on multiple projects, including [collective communication](https://pytorch.org/docs/stable/distributed.html), [distributed data parallelism](https://pytorch.org/docs/master/generated/torch.nn.parallel.DistributedDataParallel.html), and [RPC-based distributed training](https://pytorch.org/docs/master/rpc.html). [[VLDB'20](http://www.vldb.org/pvldb/vol13/p3005-li.pdf)]
+	[PyTorch](https://pytorch.org/) is an open-source machine learning framework for both research and production. The [distributed package](https://pytorch.org/tutorials/beginner/dist_overview.html) in PyTorch provides tools to easily and efficiently carry out distributed training and inference. I serve as a tech lead for the PyTorch Distributed team and work on multiple projects, including [collective communication](https://pytorch.org/docs/stable/distributed.html), [distributed data parallelism](https://pytorch.org/docs/master/generated/torch.nn.parallel.DistributedDataParallel.html), and [RPC-based distributed training](https://pytorch.org/docs/master/rpc.html). [[VLDB'20](http://www.vldb.org/pvldb/vol13/p3005-li.pdf)][[ICML'21](https://arxiv.org/abs/2102.03161)]
 
 * **IBM Streams Beam Runner**
 
