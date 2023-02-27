@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I serve as a tech lead for [PyTorch](https://pytorch.org/) Distributed team and work on all major features in the [distributed package](https://pytorch.org/tutorials/beginner/dist_overview.html), including [FullyShardedDataParallel](https://pytorch.org/blog/introducing-pytorch-fully-sharded-data-parallel-api/), [DistributedDataParallel](https://pytorch.org/docs/master/generated/torch.nn.parallel.DistributedDataParallel.html), [collective communication](https://pytorch.org/docs/stable/distributed.html), and [RPC-based distributed training](https://pytorch.org/docs/master/rpc.html). I am broadly interested in ML systems and large scale ML applications.
+I serve as the tech lead for [PyTorch](https://pytorch.org/) Distributed team and work on all major features in the [distributed package](https://pytorch.org/tutorials/beginner/dist_overview.html), including [FullyShardedDataParallel](https://pytorch.org/blog/introducing-pytorch-fully-sharded-data-parallel-api/), [DistributedDataParallel](https://pytorch.org/docs/master/generated/torch.nn.parallel.DistributedDataParallel.html), [collective communication](https://pytorch.org/docs/stable/distributed.html), and [RPC-based distributed training](https://pytorch.org/docs/master/rpc.html). I am broadly interested in ML systems and large scale ML applications.
 
 Experiences
 ======
-* 2018/11 - Present Staff Research Scientist, **Meta AI**.
+* 2018/11 - Present Senior Staff Research Scientist, **Meta AI**.
 * 2016/06 - 2018/11 Research Staff Member, **IBM Research** T. J. Watson Lab
 * 2010/10 - 2016/05 Research Assitant, **University of Illinois Urbana-Champaign**
 * 2015/05 - 2015/08 Research Intern, **IBM Research** T. J. Watson Lab
