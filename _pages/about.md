@@ -35,7 +35,7 @@ Projects
 
 * **PyTorch FullyShardedDataParallel**
 
-    This is the first native feature in PyTorch that can support models with up to trillions of parameters. FullyShardedDataParallel (FSDP) decomposes the model into smaller units. For every unit, FSDP shards Tensor storage across data-parallel processes to reduce memory footprint, `allgather`s full parameters before computation, and discards gathered parameter shards afterward. FSDP offers multiple performance optimizations out-of-box, including computation and communication overlap, parameter prefetching, parameter CPU offloading, and mixed-precision support in both computation and communication. [[Post](https://pytorch.org/blog/introducing-pytorch-fully-sharded-data-parallel-api/)][[Doc](https://pytorch.org/docs/stable/fsdp.html)][[Tutorial](https://pytorch.org/docs/stable/fsdp.html)]
+    This is the first native feature in PyTorch that can support models with up to trillions of parameters. FullyShardedDataParallel (FSDP) decomposes the model into smaller units. For every unit, FSDP shards Tensor storage across data-parallel processes to reduce memory footprint, `allgather`s full parameters before computation, and discards gathered parameter shards afterward. FSDP offers multiple performance optimizations out-of-box, including computation and communication overlap, parameter prefetching, parameter CPU offloading, and mixed-precision support in both computation and communication. [[VLDB'23](https://arxiv.org/pdf/2304.11277.pdf)][[Post](https://pytorch.org/blog/introducing-pytorch-fully-sharded-data-parallel-api/)][[Doc](https://pytorch.org/docs/stable/fsdp.html)][[Tutorial](https://pytorch.org/docs/stable/fsdp.html)]
 
 * **Pipelined Data Parallel**
 
