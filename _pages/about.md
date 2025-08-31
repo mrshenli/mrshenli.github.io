@@ -12,7 +12,8 @@ I serve as the tech lead for [PyTorch](https://pytorch.org/) Distributed team an
 
 Experiences
 ======
-* 2018/11 - Present Senior Staff Research Scientist, **Meta AI**.
+* 2023/06 - Present Principal Research Scientist, **Meta MRS**.
+* 2018/11 - 2023/05 Senior Staff Research Scientist, **Meta AI**.
 * 2016/06 - 2018/11 Research Staff Member, **IBM Research** T. J. Watson Lab
 * 2010/10 - 2016/05 Research Assitant, **University of Illinois Urbana-Champaign**
 * 2015/05 - 2015/08 Research Intern, **IBM Research** T. J. Watson Lab
